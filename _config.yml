@@ -1,6 +1,6 @@
 # Site settings
 title: 52dreams # 你的博客名字，可以定义修订
-header-img: "img/bg-index.jpg"
+header-img: "img/bg-post.jpg"
 tagline: "cn"  
 description: "Dream,my life yearning."  # 一句话描述你的博客
 baseurl: "/blog.github.io"
