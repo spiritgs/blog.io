@@ -1,8 +1,8 @@
 # Site settings
 title: 52dreams # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+header-img: "img/bg-index.jpg"
 tagline: "cn"  
-description: ""  # 一句话描述你的博客
+description: "Dream,my life yearning."  # 一句话描述你的博客
 baseurl: "/blog.github.io"
 url: "https://spiritgs.github.io/blog.github.io"  # 此处填写你的博客地址 
 
@@ -10,7 +10,7 @@ url: "https://spiritgs.github.io/blog.github.io"  # 此处填写你的博客地�
 owner: 
   name: "Andy Hunter" # 填写作者信息：名字
   email: spirit.nj@gmail.com # 填写作者信息：邮箱
-  bio: "Dream, my life yearning." # 填写作者信息：博客描述
+  bio: "This is what about dream." # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
@@ -55,7 +55,7 @@ comments :
       short_name :  # 填写你的 disqus id
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:  # 填写你  google_analytics id
+google_analytics: G-KE374S146 # 填写你  google_analytics id
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
