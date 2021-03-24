@@ -39,12 +39,12 @@ timezone: Asia/Shanghai
 defaults:
   -
     scope: 
-      path: ""
+      path: "/_layouts"
       type: "posts"
     values:
       layout: "post"
       author: "Andy Hunter" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/bg-index.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
